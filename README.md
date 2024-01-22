@@ -19,7 +19,7 @@ Run by students, driven by innovation! The Cyber Security Club is your gateway t
 
    - Expose Yourself to New Experiences and Activities: Immerse yourself in hands-on cybersecurity challenges and activities that go beyond the classroom.
    - Collaborate with Others: Connect with like-minded individuals, share ideas, and work together to tackle real-world cyber threats.
-   - Build Up Your Résumé: Elevate your profile with practical experience, showcasing your skills and dedication to future employers.
+   - Build Up Your Resume: Elevate your profile with practical experience, showcasing your skills and dedication to future employers.
    - Learn New Security Advances: Stay ahead of the curve by delving into the latest advancements and techniques in cybersecurity.
    - Discuss Cutting-edge Topics: Engage in thought-provoking discussions on the forefront of cybersecurity, exploring topics that shape the industry.
    - Bring Your Ideas to the Table: Your voice matters! Contribute your unique perspectives and ideas to drive innovation within the club.
